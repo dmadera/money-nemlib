@@ -1,0 +1,36 @@
+#!/bin/bash
+DATA='<!--ADDED BY SCRIPT--><xs:attribute name="ObjectType" fixed="List" /><xs:attribute name="DeleteItems" type="guid" /><!--ADDED BY SCRIPT END-->'
+
+ESCAPED=`echo "${DATA}" | sed -r ':a;N;$!ba;s|\n|\\\|g' | sed 's|/|\\\/|g'`
+
+for n in xsd/*.xsd; do 
+    sed -i "s/^\s*<xs:attribute name=\"ObjectType\" fixed=\"List\" \\/>/${ESCAPED}/g" ${n} ;
+done
+
+DATA='<!--ADDED BY SCRIPT-->
+    <xs:element name="ObsahPolozky" minOccurs="0">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="Artikl" minOccurs="0">
+                    <xs:complexType><xs:all>
+                        <xs:element name="Kod" minOccurs="0" type="string_60" />
+                    </xs:all></xs:complexType>
+                </xs:element>
+                <xs:element name="Sklad" minOccurs="0">
+                    <xs:complexType><xs:all>
+                        <xs:element name="Kod" minOccurs="0" type="string_60" />
+                    </xs:all></xs:complexType>
+                </xs:element>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+<!--ADDED BY SCRIPT END-->'
+
+ESCAPED=`echo "${DATA}" | sed -r ':a;N;$!ba;s|\n|\\\|g' | sed 's|/|\\\/|g'`
+
+for n in xsd/*.xsd; do 
+    sed -i -r "s/^.+ObsahPolozky_ID.+$/${ESCAPED}/mg" ${n} ;
+    xsd ${n} /c /o:xsd-classes /n:$(basename ${n} .xsd) ;
+    mv xsd-classes/$(basename ${n} .xsd).cs xsd-classes/XSD_$(basename ${n} .xsd).cs ;
+done
+

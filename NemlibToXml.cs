@@ -7,33 +7,32 @@ using System.Xml;
 using NEMLIB_OBJ;
 
 
-namespace money_nemlib
-{
+namespace money_nemlib {
     class NemlibToXml {
         private List<S5DataObjednavkaPrijata> _objednavky = new List<S5DataObjednavkaPrijata>();
 
         private string prijatyDoklad;
 
         public NemlibToXml(string inputFile, Encoding enc) {
-            var rawlines = File.ReadAllLines(inputFile, enc);            
+            var rawlines = File.ReadAllLines(inputFile, enc);
             var lines = new List<string>();
-            foreach(var line in rawlines) {
-                if(line.Trim() == "") continue;
+            foreach (var line in rawlines) {
+                if (line.Trim() == "") continue;
                 lines.Add(line);
             }
 
-            if(lines.Count < 4) throw new InvalidDataException("Neplatný formát souboru - chybí kontrolní řádky.");
+            if (lines.Count < 4) throw new InvalidDataException("Neplatný formát souboru - chybí kontrolní řádky.");
 
             prijatyDoklad = lines[0].Trim();
 
-            if(prijatyDoklad == "") throw new InvalidDataException("Neplatný formát souboru - chybí na prvním řádku přijatý doklad.");
+            if (prijatyDoklad == "") throw new InvalidDataException("Neplatný formát souboru - chybí na prvním řádku přijatý doklad.");
 
-            if(!lines[1].StartsWith("===")) throw new InvalidDataException("Neplatný formát souboru - chybí na začátku řádek ===.");
-            if(!lines[2].StartsWith("___")) throw new InvalidDataException("Neplatný formát souboru - chybí řádek oddělující objednávky ___.");
-            if(!lines[lines.Count-1].StartsWith("===")) throw new InvalidDataException("Neplatný formát souboru - chybí na konci řádek ===.");
+            if (!lines[1].StartsWith("===")) throw new InvalidDataException("Neplatný formát souboru - chybí na začátku řádek ===.");
+            if (!lines[2].StartsWith("___")) throw new InvalidDataException("Neplatný formát souboru - chybí řádek oddělující objednávky ___.");
+            if (!lines[lines.Count - 1].StartsWith("===")) throw new InvalidDataException("Neplatný formát souboru - chybí na konci řádek ===.");
 
             lines.RemoveRange(0, 3);
-            lines.RemoveAt(lines.Count-1);
+            lines.RemoveAt(lines.Count - 1);
 
             processFile(lines);
         }
@@ -43,8 +42,8 @@ namespace money_nemlib
             var polozky = new List<S5DataObjednavkaPrijataPolozkyPolozkaObjednavkyPrijate>();
             int cisloPolozky = 1;
 
-            foreach(var line in lines) {
-                if(line.StartsWith("___")) {
+            foreach (var line in lines) {
+                if (line.StartsWith("___")) {
                     obj.Polozky = new S5DataObjednavkaPrijataPolozky() {
                         PolozkaObjednavkyPrijate = polozky.ToArray()
                     };
@@ -57,7 +56,7 @@ namespace money_nemlib
                 }
 
                 var values = line.Split("|");
-                if(values.Length != 6) throw new InvalidDataException("Neplatný formát souboru - split |.");
+                if (values.Length != 6) throw new InvalidDataException("Neplatný formát souboru - split |.");
 
                 obj.Adresa = new S5DataObjednavkaPrijataAdresa() {
                     Firma = new S5DataObjednavkaPrijataAdresaFirma() {
@@ -75,14 +74,6 @@ namespace money_nemlib
                     Firma = new S5DataObjednavkaPrijataAdresaPrijemceFakturyFirma() {
                         KodOdb_UserData = values[0].Trim()
                     }
-                };
-
-                obj.PrijemceFaktury = new S5DataObjednavkaPrijataPrijemceFaktury() {
-                    KodOdb_UserData = values[0].Trim()
-                };
-
-                obj.KonecnyPrijemce = new S5DataObjednavkaPrijataKonecnyPrijemce() {
-                    KodOdb_UserData = values[0].Trim()
                 };
 
                 polozky.Add(new S5DataObjednavkaPrijataPolozkyPolozkaObjednavkyPrijate() {
@@ -110,7 +101,7 @@ namespace money_nemlib
         }
 
         public void serialize(string outputFile) {
-            var xmlWriterSettings = new XmlWriterSettings() { 
+            var xmlWriterSettings = new XmlWriterSettings() {
                 Indent = true,
                 CheckCharacters = false,
             };
@@ -121,11 +112,11 @@ namespace money_nemlib
                 };
                 serializer.Serialize(stream, data, null, "");
             }
-            
+
             string text = File.ReadAllText(outputFile);
-            text = text.Replace("&amp;#13;&amp;#10;" , "&#xD;&#xA;");
+            text = text.Replace("&amp;#13;&amp;#10;", "&#xD;&#xA;");
             File.WriteAllText(outputFile, text);
         }
 
-    }    
+    }
 }

@@ -56,23 +56,24 @@ namespace money_nemlib {
                 }
 
                 var values = line.Split("|");
+                var prefix = "KNL_";
                 if (values.Length != 6) throw new InvalidDataException("Neplatný formát souboru - split |.");
 
                 obj.Adresa = new S5DataObjednavkaPrijataAdresa() {
                     Firma = new S5DataObjednavkaPrijataAdresaFirma() {
-                        KodOdb_UserData = values[0].Trim()
+                        KodOdb_UserData = prefix + values[0].Trim()
                     }
                 };
 
                 obj.AdresaKoncovehoPrijemce = new S5DataObjednavkaPrijataAdresaKoncovehoPrijemce() {
                     Firma = new S5DataObjednavkaPrijataAdresaKoncovehoPrijemceFirma() {
-                        KodOdb_UserData = values[0].Trim()
+                        KodOdb_UserData = prefix + values[0].Trim()
                     }
                 };
 
                 obj.AdresaPrijemceFaktury = new S5DataObjednavkaPrijataAdresaPrijemceFaktury() {
                     Firma = new S5DataObjednavkaPrijataAdresaPrijemceFakturyFirma() {
-                        KodOdb_UserData = values[0].Trim()
+                        KodOdb_UserData = prefix + values[0].Trim()
                     }
                 };
 

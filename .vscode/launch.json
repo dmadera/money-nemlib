@@ -13,9 +13,12 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/bin/Debug/net5.0/money-nemlib.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/money-nemlib.dll",
             "args": ["${workspaceFolder}/assets/input.txt","${workspaceFolder}/tmp/output.xml"],
             "cwd": "${workspaceFolder}",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "dev"
+            },
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

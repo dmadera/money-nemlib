@@ -28,7 +28,8 @@
                 "publish",
                 "-r",
                 "win-x64",
-                "-p:PublishSingleFile=true"
+                "-p:PublishSingleFile=true",
+                "--self-contained"
             ],
             "problemMatcher": "$msCompile"
         },

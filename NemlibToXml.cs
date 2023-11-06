@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
@@ -5,13 +6,10 @@ using System.Xml.Serialization;
 using System.Xml;
 using Services;
 using Microsoft.Data.SqlClient;
-
+using Microsoft.Extensions.Options;
+using Microsoft.Extensions.DependencyInjection;
 
 using NEMLIB_OBJ;
-using System.Data;
-using System;
-using System.Linq;
-
 
 namespace money_nemlib
 {
@@ -20,6 +18,8 @@ namespace money_nemlib
         private List<S5DataObjednavkaPrijata> _objednavky = new List<S5DataObjednavkaPrijata>();
 
         private string prijatyDoklad;
+
+        private ParserConfig parserConfig = Program.ServiceProvider.GetService<IOptions<ParserConfig>>().Value;
 
         public NemlibToXml(string inputFile, Encoding enc)
         {
@@ -52,7 +52,6 @@ namespace money_nemlib
             var obj = new S5DataObjednavkaPrijata();
             var polozky = new List<S5DataObjednavkaPrijataPolozkyPolozkaObjednavkyPrijate>();
             int cisloPolozky = 1;
-            var prefix = "KNL_";
 
             foreach (var line in lines)
             {
@@ -77,13 +76,14 @@ namespace money_nemlib
 
                 if (obj.Adresa == null)
                 {
-                    var kodOdb = prefix + values[0].Trim();
+                    var code = string.Format(parserConfig.CompanyNameFormat, values[0].Trim());
+                    var rowData = GetCompany(code);
 
                     obj.Adresa = new S5DataObjednavkaPrijataAdresa()
                     {
                         Firma = new S5DataObjednavkaPrijataAdresaFirma()
                         {
-                            KodOdb_UserData = kodOdb
+                            ID = rowData["ID"]
                         }
                     };
 
@@ -91,7 +91,7 @@ namespace money_nemlib
                     {
                         Firma = new S5DataObjednavkaPrijataAdresaKoncovehoPrijemceFirma()
                         {
-                            KodOdb_UserData = kodOdb
+                            ID = rowData["ID"]
                         }
                     };
 
@@ -99,11 +99,10 @@ namespace money_nemlib
                     {
                         Firma = new S5DataObjednavkaPrijataAdresaPrijemceFakturyFirma()
                         {
-                            KodOdb_UserData = kodOdb
+                            ID = rowData["ID"]
                         }
                     };
 
-                    var rowData = GetCompany(kodOdb);
                     obj.Odkaz = prijatyDoklad;
                     obj.Sleva = rowData["HodnotaSlevy"];
                     obj.ZpusobDopravy = new S5DataObjednavkaPrijataZpusobDopravy()
@@ -162,22 +161,23 @@ namespace money_nemlib
             File.WriteAllText(outputFile, text);
         }
 
-        private static Dictionary<string, string> GetCompany(string kodOdb)
+        private static Dictionary<string, string> GetCompany(string code)
         {
             using (var connection = Sql.CreateConnection())
             {
                 connection.Open();
-                var sql = $"SELECT TOP 1 * FROM USER_FIRMA WHERE KodOdb_UserData = '{kodOdb}'";
+                var sql = $"SELECT * FROM USER_FIRMA WHERE Nazev LIKE '{code} %'";
 
                 using SqlCommand command = new SqlCommand(sql, connection);
                 using SqlDataReader reader = command.ExecuteReader();
-                if (!reader.Read()) throw new Exception($"DATA NOT FOUND. {sql}");
+                if (!reader.Read()) throw new Exception($"Nebyl nalezen odběratel se Název: {code}.");
 
                 var rowData = new Dictionary<string, string>();
                 for (int i = 0; i < reader.FieldCount; i++)
                 {
                     rowData.Add(reader.GetName(i), reader.GetValue(i).ToString());
                 }
+                if (reader.Read()) throw new Exception($"Bylo nalezeno více odběratelů s Názevem: {code}.");
                 return rowData;
             }
         }

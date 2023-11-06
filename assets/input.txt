@@ -1,37 +1,1238 @@
-MTZ172251
+MTZ196139
 ===================================================================================================
 ______________________________
 
-1215         |   Pema        |   SUP         |   1054           |   10,0000      |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
-
-1215         |   Pema        |   SUP         |   1586           |   2,0000       |   Hadr na podlahu bílý Aratex 50x60 cm, ks
-
-1215         |   Pema        |   SUP         |   4148           |   10,0000      |   Gel chlorax REAL 750g, ks
+1011         |   Pema        |   SUP         |   5732           |   10,0000      |   Ubrousky vlhčené Linteo 40ks - úklidové, ks
 ______________________________
 
-2113         |   Pema        |   SUP         |   0180           |   2,0000       |   Motouz PLP 250g, ks
+1111         |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
 
-2113         |   Pema        |   SUP         |   0203           |   1,0000       |   Sůl do myčky nádobí 1,5kg, ks
+1111         |   Pema        |   SUP         |   3089           |   10,0000      |   Návlek na obuv jednorázový, bal=100ks, bal
 
-2113         |   Pema        |   SUP         |   0351           |   10,0000      |   Jar 450ml Citron, ks
+1111         |   Pema        |   SUP         |   4399           |   2,0000       |   Mýdlo tekuté Clear Body Aloe 500ml -  zelené, ks
+______________________________
 
-2113         |   Pema        |   SUP         |   0654           |   3,0000       |   Alobal 29cmx10m, ks
+1121         |   Pema        |   SUP         |   2173           |   1,0000       |   Krém na ruce Isolda 100ml, šalvěj, antibakteriální, ks
+______________________________
 
-2113         |   Pema        |   SUP         |   1054           |   10,0000      |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+1215         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
 
-2113         |   Pema        |   SUP         |   1056           |   4,0000       |   Mýdlo tekuté Amadeus 5l - bílé, ks
+1215         |   Pema        |   SUP         |   0387           |   5,0000       |   Iron 0,5l, ks
 
-2113         |   Pema        |   SUP         |   1416           |   8,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+1215         |   Pema        |   SUP         |   1586           |   3,0000       |   Hadr na podlahu bílý Aratex 50x60 cm, ks
 
-2113         |   Pema        |   SUP         |   2600           |   20,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+1215         |   Pema        |   SUP         |   4788           |   10,0000      |   WC čistič Primona 750ml, ks
 
-2113         |   Pema        |   SUP         |   2984           |   5,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+1215         |   Pema        |   SUP         |   4809           |   10,0000      |   Jar 450ml Teatrea - sensitive, ks
 
-2113         |   Pema        |   SUP         |   4148           |   5,0000       |   Gel chlorax REAL 750g, ks
+1215         |   Pema        |   SUP         |   5359           |   16,0000      |   Ručník papírový na roli Harmony 11m 2ks, ks
 
-2113         |   Pema        |   SUP         |   4399           |   5,0000       |   Mýdlo tekuté Lavon 500ml - aloe, zelené, ks
+1215         |   Pema        |   SUP         |   5846           |   10,0000      |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+______________________________
 
-2113         |   Pema        |   SUP         |   5111           |   2,0000       |   Tablety do myčky 52ks All in One, ks
+1341         |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
 
-2113         |   Pema        |   SUP         |   5784           |   1,0000       |   Lesk do myčky Milit 1l, ks
+1341         |   Pema        |   SUP         |   5860           |   6,0000       |   Krém na ruce MARYNA 75ml, ks
+
+1341         |   Pema        |   SUP         |   6328           |   2,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2013         |   Pema        |   SUP         |   0654           |   1,0000       |   Alobal 29cmx10m, ks
+______________________________
+
+2015         |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
+
+2015         |   Pema        |   SUP         |   0532           |   1,0000       |   Savo červené original, 1,2l, ks
+
+2015         |   Pema        |   SUP         |   0573           |   2,0000       |   Sáčky do koše 30l 49x60 /50ks bílé/trans, role
+
+2015         |   Pema        |   SUP         |   4397           |   3,0000       |   Rukavice gumové vel.M, pár
+
+2015         |   Pema        |   SUP         |   6328           |   1,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2021         |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
+
+2021         |   Pema        |   SUP         |   6320           |   1,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2113         |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2113         |   Pema        |   SUP         |   0351           |   1,0000       |   Jar 450ml Citron, ks
+
+2113         |   Pema        |   SUP         |   0607           |   100,0000     |   Utěrka UNI Petr - 38x38cm, modrá, ks
+
+2113         |   Pema        |   SUP         |   0740           |   1,0000       |   Tělové mléko Herbavera 400ml Argan+mandl, ks
+
+2113         |   Pema        |   SUP         |   0802           |   4,0000       |   Pěna na holení 200ml Windsor, ks
+
+2113         |   Pema        |   SUP         |   0832           |   5,0000       |   Koš našlapný + vložka 15L Goliáš mramor.šedá, ks
+
+2113         |   Pema        |   SUP         |   1054           |   5,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+2113         |   Pema        |   SUP         |   1419           |   5,0000       |   Šampon na vlasy Kopřiva 500ml, ks
+
+2113         |   Pema        |   SUP         |   1954           |   1,0000       |   Houbička nádobí s drážkou 10x7cm 10ks, bal
+
+2113         |   Pema        |   SUP         |   4148           |   1,0000       |   Gel chlorax REAL 750g, ks
+
+2113         |   Pema        |   SUP         |   4399           |   15,0000      |   Mýdlo tekuté Clear Body Aloe 500ml -  zelené, ks
+
+2113         |   Pema        |   SUP         |   5732           |   1,0000       |   Ubrousky vlhčené Linteo 40ks - úklidové, ks
+
+2113         |   Pema        |   SUP         |   6320           |   5,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2120         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2120         |   Pema        |   SUP         |   0832           |   2,0000       |   Koš našlapný + vložka 15L Goliáš mramor.šedá, ks
+
+2120         |   Pema        |   SUP         |   1356           |   1,0000       |   Šampon ba vlasy Bříza 500ml, ks
+
+2120         |   Pema        |   SUP         |   1416           |   3,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+2120         |   Pema        |   SUP         |   1419           |   1,0000       |   Šampon na vlasy Kopřiva 500ml, ks
+
+2120         |   Pema        |   SUP         |   1525           |   5,0000       |   Mřížka do pisoáru - Wave Melon zelená, ks
+
+2120         |   Pema        |   SUP         |   2173           |   2,0000       |   Krém na ruce Isolda 100ml, šalvěj, antibakteriální, ks
+
+2120         |   Pema        |   SUP         |   2365           |   4,0000       |   Mýdlo tekuté Clear Body Oceán 500ml - modré, ks
+
+2120         |   Pema        |   SUP         |   2613           |   1,0000       |   Krém na ruce Vakavo 100ml s glycerinem, ks
+
+2120         |   Pema        |   SUP         |   4132           |   10,0000      |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2120         |   Pema        |   SUP         |   4651           |   1,0000       |   Leštěnka Přípravek proti prachu Real 300ml, bal
+
+2120         |   Pema        |   SUP         |   4736           |   12,0000      |   WC závěs kostka - Levandule, ks
+
+2120         |   Pema        |   SUP         |   5359           |   16,0000      |   Ručník papírový na roli Harmony 11m 2ks, ks
+
+2120         |   Pema        |   SUP         |   5732           |   3,0000       |   Ubrousky vlhčené Linteo 40ks - úklidové, ks
+
+2120         |   Pema        |   SUP         |   5860           |   2,0000       |   Krém na ruce MARYNA 75ml, ks
+
+2120         |   Pema        |   SUP         |   6549           |   1,0000       |   PU čistič 10l Dr. Schutz, ks
+______________________________
+
+2122         |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2122         |   Pema        |   SUP         |   0351           |   6,0000       |   Jar 450ml Citron, ks
+
+2122         |   Pema        |   SUP         |   0955           |   3,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2122         |   Pema        |   SUP         |   1356           |   1,0000       |   Šampon ba vlasy Bříza 500ml, ks
+
+2122         |   Pema        |   SUP         |   1419           |   1,0000       |   Šampon na vlasy Kopřiva 500ml, ks
+
+2122         |   Pema        |   SUP         |   2365           |   1,0000       |   Mýdlo tekuté Clear Body Oceán 500ml - modré, ks
+
+2122         |   Pema        |   SUP         |   2600           |   15,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2122         |   Pema        |   SUP         |   3089           |   2,0000       |   Návlek na obuv jednorázový, bal=100ks, bal
+
+2122         |   Pema        |   SUP         |   3266           |   3,0000       |   Vložky s křidélky MICCI Ultra plus 10ks, ks
+
+2122         |   Pema        |   SUP         |   4132           |   3,0000       |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2122         |   Pema        |   SUP         |   4148           |   3,0000       |   Gel chlorax REAL 750g, ks
+
+2122         |   Pema        |   SUP         |   4399           |   1,0000       |   Mýdlo tekuté Clear Body Aloe 500ml -  zelené, ks
+
+2122         |   Pema        |   SUP         |   4736           |   5,0000       |   WC závěs kostka - Levandule, ks
+
+2122         |   Pema        |   SUP         |   5500           |   5,0000       |   Kartáček na zuby - střední, ks
+
+2122         |   Pema        |   SUP         |   5657           |   1,0000       |   Tekuté mýdlo 500ml Vione zelené, ks
+
+2122         |   Pema        |   SUP         |   5673           |   1,0000       |   Tekuté mýdlo 500ml Vione růžové, ks
+
+2122         |   Pema        |   SUP         |   6320           |   2,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+
+2122         |   Pema        |   SUP         |   6328           |   2,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2129         |   Pema        |   SUP         |   1429           |   10,0000      |   Hřeben s rukojetí - plochý, ks
+
+2129         |   Pema        |   SUP         |   4736           |   10,0000      |   WC závěs kostka - Levandule, ks
+______________________________
+
+2141HDS      |   Pema        |   SUP         |   0351           |   4,0000       |   Jar 450ml Citron, ks
+
+2141HDS      |   Pema        |   SUP         |   1743           |   2,0000       |   Smetáček PE, ks
+
+2141HDS      |   Pema        |   SUP         |   1993           |   2,0000       |   Koště průmyslové DR s holí 120cm (rejžák), ks
+
+2141HDS      |   Pema        |   SUP         |   2173           |   2,0000       |   Krém na ruce Isolda 100ml, šalvěj, antibakteriální, ks
+
+2141HDS      |   Pema        |   SUP         |   5732           |   2,0000       |   Ubrousky vlhčené Linteo 40ks - úklidové, ks
+
+2141HDS      |   Pema        |   SUP         |   6328           |   1,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2141PIO      |   Pema        |   SUP         |   1303           |   2,0000       |   WC souprava bílá (štětka s nádobou), ks
+
+2141PIO      |   Pema        |   SUP         |   4148           |   8,0000       |   Gel chlorax REAL 750g, ks
+
+2141PIO      |   Pema        |   SUP         |   4809           |   3,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+2141PIO      |   Pema        |   SUP         |   6320           |   2,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2151         |   Pema        |   SUP         |   1532           |   20,0000      |   Kartáček na ruce s držadlem - Kamil, ks
+
+2151         |   Pema        |   SUP         |   6320           |   3,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+
+2151         |   Pema        |   SUP         |   6328           |   3,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2152         |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
+
+2152         |   Pema        |   SUP         |   4809           |   2,0000       |   Jar 450ml Teatrea - sensitive, ks
+______________________________
+
+2172         |   Pema        |   SUP         |   0573           |   20,0000      |   Sáčky do koše 30l 49x60 /50ks bílé/trans, role
+
+2172         |   Pema        |   SUP         |   0826           |   2,0000       |   Hadr na podlahu, tkaný, 60x60cm, ks
+
+2172         |   Pema        |   SUP         |   1586           |   2,0000       |   Hadr na podlahu bílý Aratex 50x60 cm, ks
+______________________________
+
+2211         |   Pema        |   SUP         |   0654           |   2,0000       |   Alobal 29cmx10m, ks
+
+2211         |   Pema        |   SUP         |   1054           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+2211         |   Pema        |   SUP         |   1416           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+2211         |   Pema        |   SUP         |   6320           |   2,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2222         |   Pema        |   SUP         |   4132           |   10,0000      |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2222         |   Pema        |   SUP         |   4736           |   6,0000       |   WC závěs kostka - Levandule, ks
+
+2222         |   Pema        |   SUP         |   6320           |   4,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2231         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2231         |   Pema        |   SUP         |   0532           |   2,0000       |   Savo červené original, 1,2l, ks
+
+2231         |   Pema        |   SUP         |   0802           |   1,0000       |   Pěna na holení 200ml Windsor, ks
+
+2231         |   Pema        |   SUP         |   1943           |   1,0000       |   Lesk do myčky Somat 750 ml, ks
+
+2231         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2231         |   Pema        |   SUP         |   2613           |   3,0000       |   Krém na ruce Vakavo 100ml s glycerinem, ks
+
+2231         |   Pema        |   SUP         |   4132           |   30,0000      |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2231         |   Pema        |   SUP         |   4736           |   12,0000      |   WC závěs kostka - Levandule, ks
+
+2231         |   Pema        |   SUP         |   5111           |   2,0000       |   Finish tablety do myčky 48ks All in One Max, ks
+______________________________
+
+2233         |   Pema        |   SUP         |   0180           |   1,0000       |   Motouz PLP 250g, ks
+
+2233         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2233         |   Pema        |   SUP         |   0351           |   1,0000       |   Jar 450ml Citron, ks
+
+2233         |   Pema        |   SUP         |   2600           |   5,0000       |   Houbička nádobí s drážkou 10x7cm, ks
+
+2233         |   Pema        |   SUP         |   4132           |   20,0000      |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2233         |   Pema        |   SUP         |   4148           |   1,0000       |   Gel chlorax REAL 750g, ks
+
+2233         |   Pema        |   SUP         |   4809           |   1,0000       |   Jar 450ml Teatrea - sensitive, ks
+______________________________
+
+2251         |   Pema        |   SUP         |   2173           |   5,0000       |   Krém na ruce Isolda 100ml, šalvěj, antibakteriální, ks
+
+2251         |   Pema        |   SUP         |   2613           |   5,0000       |   Krém na ruce Vakavo 100ml s glycerinem, ks
+______________________________
+
+2262         |   Pema        |   SUP         |   0288           |   1,0000       |   Prášek prací ELTRA 6kg, ks
+
+2262         |   Pema        |   SUP         |   0351           |   10,0000      |   Jar 450ml Citron, ks
+
+2262         |   Pema        |   SUP         |   0405           |   4,0000       |   Žabka - změkčovač, 400g, ks
+
+2262         |   Pema        |   SUP         |   0573           |   10,0000      |   Sáčky do koše 30l 49x60 /50ks bílé/trans, role
+
+2262         |   Pema        |   SUP         |   0740           |   10,0000      |   Tělové mléko Herbavera 400ml Argan+mandl, ks
+
+2262         |   Pema        |   SUP         |   0955           |   3,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2262         |   Pema        |   SUP         |   1054           |   1,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+2262         |   Pema        |   SUP         |   1416           |   1,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+2262         |   Pema        |   SUP         |   2377           |   4,0000       |   Dekalko na vodní kámen 150g /5sáčků á 30g/, ks
+
+2262         |   Pema        |   SUP         |   2984           |   5,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+2262         |   Pema        |   SUP         |   4148           |   5,0000       |   Gel chlorax REAL 750g, ks
+
+2262         |   Pema        |   SUP         |   4148           |   4,0000       |   Gel chlorax REAL 750g, ks
+
+2262         |   Pema        |   SUP         |   4399           |   15,0000      |   Mýdlo tekuté Clear Body Aloe 500ml -  zelené, ks
+
+2262         |   Pema        |   SUP         |   4651           |   1,0000       |   Leštěnka Přípravek proti prachu Real 300ml, bal
+
+2262         |   Pema        |   SUP         |   4736           |   5,0000       |   WC závěs kostka - Levandule, ks
+
+2262         |   Pema        |   SUP         |   5111           |   2,0000       |   Finish tablety All in 1 48ks, ks
+
+2262         |   Pema        |   SUP         |   5757           |   5,0000       |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+2262         |   Pema        |   SUP         |   5757           |   3,0000       |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+2262         |   Pema        |   SUP         |   5846           |   1,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+
+2262         |   Pema        |   SUP         |   6320           |   4,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+
+2262         |   Pema        |   SUP         |   6328           |   4,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+
+2262         |   Pema        |   SUP         |   6328           |   1,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2271         |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2271         |   Pema        |   SUP         |   0351           |   6,0000       |   Jar 450ml Citron, ks
+
+2271         |   Pema        |   SUP         |   2984           |   6,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+2271         |   Pema        |   SUP         |   3755           |   6,0000       |   Cif na nerez MR, 435 ml, ks
+
+2271         |   Pema        |   SUP         |   4132           |   1,0000       |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2271         |   Pema        |   SUP         |   4148           |   20,0000      |   Gel chlorax REAL 750g, ks
+
+2271         |   Pema        |   SUP         |   4736           |   5,0000       |   WC závěs kostka - Levandule, ks
+
+2271         |   Pema        |   SUP         |   4809           |   6,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+2271         |   Pema        |   SUP         |   5111           |   1,0000       |   Finish tablety All in 1 48ks, ks
+
+2271         |   Pema        |   SUP         |   5757           |   6,0000       |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+2271         |   Pema        |   SUP         |   6320           |   2,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+
+2271         |   Pema        |   SUP         |   6328           |   2,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2272         |   Pema        |   SUP         |   0351           |   4,0000       |   Jar 450ml Citron, ks
+
+2272         |   Pema        |   SUP         |   1054           |   1,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+2272         |   Pema        |   SUP         |   1416           |   4,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+2272         |   Pema        |   SUP         |   1416           |   4,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+2272         |   Pema        |   SUP         |   1954           |   1,0000       |   Houbička nádobí s drážkou 10x7cm 10ks, bal
+
+2272         |   Pema        |   SUP         |   2613           |   2,0000       |   Krém na ruce Vakavo 100ml s glycerinem, ks
+
+2272         |   Pema        |   SUP         |   2984           |   4,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+2272         |   Pema        |   SUP         |   2984           |   2,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+2272         |   Pema        |   SUP         |   3755           |   1,0000       |   Cif na nerez MR, 435 ml, ks
+
+2272         |   Pema        |   SUP         |   5846           |   1,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+
+2272         |   Pema        |   SUP         |   5860           |   2,0000       |   Krém na ruce MARYNA 75ml, ks
+______________________________
+
+2274         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2274         |   Pema        |   SUP         |   0351           |   3,0000       |   Jar 450ml Citron, ks
+
+2274         |   Pema        |   SUP         |   1532           |   10,0000      |   Kartáček na ruce s držadlem - Kamil, ks
+
+2274         |   Pema        |   SUP         |   2984           |   2,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+2274         |   Pema        |   SUP         |   4148           |   2,0000       |   Gel chlorax REAL 750g, ks
+
+2274         |   Pema        |   SUP         |   6320           |   1,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+
+2274         |   Pema        |   SUP         |   6328           |   1,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2275         |   Pema        |   SUP         |   0180           |   2,0000       |   Motouz PLP 250g, ks
+
+2275         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2275         |   Pema        |   SUP         |   0955           |   4,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2275         |   Pema        |   SUP         |   2365           |   2,0000       |   Mýdlo tekuté Clear Body Oceán 500ml - modré, ks
+
+2275         |   Pema        |   SUP         |   3632           |   2,0000       |   Pasta na podlahu Bistrol - protiskluz 500ml, ks
+
+2275         |   Pema        |   SUP         |   4809           |   3,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+2275         |   Pema        |   SUP         |   5975           |   4,0000       |   GO proti plísni 500ml MR chlorový čistič, ks
+
+2275         |   Pema        |   SUP         |   6320           |   2,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2276         |   Pema        |   SUP         |   0180           |   2,0000       |   Motouz PLP 250g, ks
+
+2276         |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2276         |   Pema        |   SUP         |   0351           |   4,0000       |   Jar 450ml Citron, ks
+
+2276         |   Pema        |   SUP         |   0387           |   2,0000       |   Iron 0,5l, ks
+
+2276         |   Pema        |   SUP         |   0459           |   20,0000      |   Kartáček na ruce PE - jednostranný, ks
+
+2276         |   Pema        |   SUP         |   0532           |   2,0000       |   Savo červené original, 1,2l, ks
+
+2276         |   Pema        |   SUP         |   0532           |   2,0000       |   Savo červené original, 1,2l, ks
+
+2276         |   Pema        |   SUP         |   0955           |   4,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2276         |   Pema        |   SUP         |   0955           |   10,0000      |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2276         |   Pema        |   SUP         |   1303           |   2,0000       |   WC souprava bílá (štětka s nádobou), ks
+
+2276         |   Pema        |   SUP         |   2021           |   1,0000       |   Vatové tyčinky 160ks, sáček, ks
+
+2276         |   Pema        |   SUP         |   4132           |   6,0000       |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2276         |   Pema        |   SUP         |   4132           |   6,0000       |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2276         |   Pema        |   SUP         |   4148           |   10,0000      |   Gel chlorax REAL 750g, ks
+
+2276         |   Pema        |   SUP         |   4148           |   10,0000      |   Gel chlorax REAL 750g, ks
+
+2276         |   Pema        |   SUP         |   4736           |   6,0000       |   WC závěs kostka - Levandule, ks
+
+2276         |   Pema        |   SUP         |   4809           |   10,0000      |   Jar 450ml Teatrea - sensitive, ks
+
+2276         |   Pema        |   SUP         |   5846           |   4,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+
+2276         |   Pema        |   SUP         |   5975           |   2,0000       |   GO proti plísni 500ml MR chlorový čistič, ks
+
+2276         |   Pema        |   SUP         |   6320           |   2,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2282         |   Pema        |   SUP         |   0740           |   2,0000       |   Tělové mléko Herbavera 400ml Argan+mandl, ks
+
+2282         |   Pema        |   SUP         |   4132           |   6,0000       |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2282         |   Pema        |   SUP         |   4132           |   8,0000       |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+______________________________
+
+2312         |   Pema        |   SUP         |   0288           |   1,0000       |   Prášek prací ELTRA 6kg, ks
+
+2312         |   Pema        |   SUP         |   0336           |   3,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2312         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2312         |   Pema        |   SUP         |   0740           |   4,0000       |   Tělové mléko Herbavera 400ml Argan+mandl, ks
+
+2312         |   Pema        |   SUP         |   0955           |   3,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2312         |   Pema        |   SUP         |   1054           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+2312         |   Pema        |   SUP         |   1274           |   10,0000      |   Příchytky na pytle na prádlo (vozík), ks
+
+2312         |   Pema        |   SUP         |   1303           |   3,0000       |   WC souprava bílá (štětka s nádobou), ks
+
+2312         |   Pema        |   SUP         |   1303           |   15,0000      |   WC souprava bílá (štětka s nádobou), ks
+
+2312         |   Pema        |   SUP         |   1416           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+2312         |   Pema        |   SUP         |   1429           |   6,0000       |   Hřeben s rukojetí - plochý, ks
+
+2312         |   Pema        |   SUP         |   1464           |   1,0000       |   Přípravek na nádobí Primona 5l, ks
+
+2312         |   Pema        |   SUP         |   2021           |   5,0000       |   Vatové tyčinky 160ks, sáček, ks
+
+2312         |   Pema        |   SUP         |   2173           |   3,0000       |   Krém na ruce Isolda 100ml, šalvěj, antibakteriální, ks
+
+2312         |   Pema        |   SUP         |   2377           |   2,0000       |   Dekalko na vodní kámen 150g /5sáčků á 30g/, ks
+
+2312         |   Pema        |   SUP         |   2449           |   2,0000       |   Sůl do myčky nádobí Finish 1,5kg, ks
+
+2312         |   Pema        |   SUP         |   2877           |   2,0000       |   Univerzal BEL, saponát na podlahy a nádobí, 500ml, ks
+
+2312         |   Pema        |   SUP         |   3089           |   5,0000       |   Návlek na obuv jednorázový, bal=100ks, bal
+
+2312         |   Pema        |   SUP         |   3266           |   4,0000       |   Vložky s křidélky MICCI Ultra plus 10ks, ks
+
+2312         |   Pema        |   SUP         |   4148           |   6,0000       |   Gel chlorax REAL 750g, ks
+
+2312         |   Pema        |   SUP         |   4148           |   8,0000       |   Gel chlorax REAL 750g, ks
+
+2312         |   Pema        |   SUP         |   4736           |   8,0000       |   WC závěs kostka - Levandule, ks
+
+2312         |   Pema        |   SUP         |   5111           |   1,0000       |   Finish tablety All in 1 48ks, ks
+
+2312         |   Pema        |   SUP         |   5500           |   7,0000       |   Kartáček na zuby - střední, ks
+
+2312         |   Pema        |   SUP         |   5673           |   4,0000       |   Tekuté mýdlo 500ml Vione růžové, ks
+
+2312         |   Pema        |   SUP         |   5757           |   8,0000       |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+______________________________
+
+2322         |   Pema        |   SUP         |   1357           |   4,0000       |   Hůl smetáková dřevěná 160cm, průměr 24 mm, ks
+
+2322         |   Pema        |   SUP         |   1725           |   2,0000       |   Smeták PE, na hůl, jemný závit, ks
+
+2322         |   Pema        |   SUP         |   3412           |   4,0000       |   Smeták nelakovaný, 28x5cm, na hůl, ks
+
+2322         |   Pema        |   SUP         |   6583           |   2,0000       |   Finish tablety All in 1 ***94ks, ks
+______________________________
+
+2342         |   Pema        |   SUP         |   0180           |   2,0000       |   Motouz PLP 250g, ks
+
+2342         |   Pema        |   SUP         |   4809           |   3,0000       |   Jar 450ml Teatrea - sensitive, ks
+______________________________
+
+2351         |   Pema        |   SUP         |   1761           |   1,0000       |   Smetáček + lopatka s gumou, ks
+
+2351         |   Pema        |   SUP         |   1954           |   1,0000       |   Houbička nádobí s drážkou 10x7cm 10ks, bal
+
+2351         |   Pema        |   SUP         |   6328           |   1,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2352         |   Pema        |   SUP         |   0288           |   1,0000       |   Prášek prací ELTRA 6kg, ks
+
+2352         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2352         |   Pema        |   SUP         |   4148           |   2,0000       |   Gel chlorax REAL 750g, ks
+
+2352         |   Pema        |   SUP         |   6320           |   2,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2353         |   Pema        |   SUP         |   5111           |   2,0000       |   Finish tablety All in 1 48ks, ks
+
+2353         |   Pema        |   SUP         |   5783           |   2,0000       |   Čistič myčky Milit 250ml, ks
+
+2353         |   Pema        |   SUP         |   6328           |   6,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2361         |   Pema        |   SUP         |   0552           |   2,0000       |   Krém na ruce Indulona modrá100ml, ks
+
+2361         |   Pema        |   SUP         |   2173           |   2,0000       |   Krém na ruce Isolda 100ml, šalvěj, antibakteriální, ks
+
+2361         |   Pema        |   SUP         |   2613           |   2,0000       |   Krém na ruce Vakavo 100ml s glycerinem, ks
+
+2361         |   Pema        |   SUP         |   5860           |   2,0000       |   Krém na ruce MARYNA 75ml, ks
+______________________________
+
+2362         |   Pema        |   SUP         |   0180           |   1,0000       |   Motouz PLP 250g, ks
+
+2362         |   Pema        |   SUP         |   0732           |   6,0000       |   Zásobník na WC papír 280mm bílý CN č.187, ks
+
+2362         |   Pema        |   SUP         |   0802           |   3,0000       |   Pěna na holení 200ml Windsor, ks
+
+2362         |   Pema        |   SUP         |   2365           |   3,0000       |   Mýdlo tekuté Clear Body Oceán 500ml - modré, ks
+
+2362         |   Pema        |   SUP         |   4132           |   14,0000      |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2362         |   Pema        |   SUP         |   4148           |   2,0000       |   Gel chlorax REAL 750g, ks
+
+2362         |   Pema        |   SUP         |   4399           |   3,0000       |   Mýdlo tekuté Clear Body Aloe 500ml -  zelené, ks
+
+2362         |   Pema        |   SUP         |   4809           |   3,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+2362         |   Pema        |   SUP         |   5732           |   2,0000       |   Ubrousky vlhčené Linteo 40ks - úklidové, ks
+
+2362         |   Pema        |   SUP         |   6320           |   2,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+
+2362         |   Pema        |   SUP         |   6328           |   2,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2412         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2412         |   Pema        |   SUP         |   0351           |   6,0000       |   Jar 450ml Citron, ks
+
+2412         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2412         |   Pema        |   SUP         |   5111           |   1,0000       |   Finish tablety do myčky 48ks All in One Max, ks
+
+2412         |   Pema        |   SUP         |   6320           |   4,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2422         |   Pema        |   SUP         |   0180           |   1,0000       |   Motouz PLP 250g, ks
+
+2422         |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2422         |   Pema        |   SUP         |   0351           |   3,0000       |   Jar 450ml Citron, ks
+
+2422         |   Pema        |   SUP         |   0955           |   2,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2422         |   Pema        |   SUP         |   1416           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+2422         |   Pema        |   SUP         |   2021           |   6,0000       |   Vatové tyčinky 160ks, sáček, ks
+
+2422         |   Pema        |   SUP         |   2377           |   1,0000       |   Dekalko na vodní kámen 150g /5sáčků á 30g/, ks
+
+2422         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2422         |   Pema        |   SUP         |   4132           |   10,0000      |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2422         |   Pema        |   SUP         |   4148           |   3,0000       |   Gel chlorax REAL 750g, ks
+______________________________
+
+2428         |   Pema        |   SUP         |   2021           |   3,0000       |   Vatové tyčinky 160ks, sáček, ks
+
+2428         |   Pema        |   SUP         |   3089           |   10,0000      |   Návlek na obuv jednorázový, bal=100ks, bal
+
+2428         |   Pema        |   SUP         |   4132           |   5,0000       |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+______________________________
+
+2432         |   Pema        |   SUP         |   2600           |   20,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+______________________________
+
+2443         |   Pema        |   SUP         |   0351           |   3,0000       |   Jar 450ml Citron, ks
+
+2443         |   Pema        |   SUP         |   0573           |   10,0000      |   Sáčky do koše 30l 49x60 /50ks bílé/trans, role
+
+2443         |   Pema        |   SUP         |   3089           |   3,0000       |   Návlek na obuv jednorázový, bal=100ks, bal
+
+2443         |   Pema        |   SUP         |   4148           |   2,0000       |   Gel chlorax REAL 750g, ks
+
+2443         |   Pema        |   SUP         |   4809           |   1,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+2443         |   Pema        |   SUP         |   5089           |   1,0000       |   Zásobník na ručníky CN 197 ZZ, ks
+
+2443         |   Pema        |   SUP         |   6328           |   2,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2511RTG      |   Pema        |   SUP         |   0351           |   3,0000       |   Jar 450ml Citron, ks
+
+2511RTG      |   Pema        |   SUP         |   1359           |   9,0000       |   Drátěnka nerez 15g (3ks), ks
+
+2511RTG      |   Pema        |   SUP         |   4809           |   3,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+2511RTG      |   Pema        |   SUP         |   5359           |   16,0000      |   Ručník papírový na roli Harmony 11m 2ks, ks
+______________________________
+
+2521         |   Pema        |   SUP         |   2984           |   5,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+2521         |   Pema        |   SUP         |   3089           |   2,0000       |   Návlek na obuv jednorázový, bal=100ks, bal
+
+2521         |   Pema        |   SUP         |   5359           |   48,0000      |   Ručník papírový na roli Harmony 11m 2ks, ks
+______________________________
+
+2542         |   Pema        |   SUP         |   0740           |   3,0000       |   Tělové mléko Herbavera 400ml Argan+mandl, ks
+
+2542         |   Pema        |   SUP         |   0943           |   2,0000       |   Univerzal Krystal, saponát, modrý, 5l, ks
+
+2542         |   Pema        |   SUP         |   0955           |   3,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2542         |   Pema        |   SUP         |   1356           |   2,0000       |   Šampon ba vlasy Bříza 500ml, ks
+
+2542         |   Pema        |   SUP         |   1419           |   2,0000       |   Šampon na vlasy Kopřiva 500ml, ks
+
+2542         |   Pema        |   SUP         |   1525           |   5,0000       |   Mřížka do pisoáru - Wave Melon zelená, ks
+
+2542         |   Pema        |   SUP         |   2165           |   10,0000      |   SAVO koupelny MR 500ml, ks
+
+2542         |   Pema        |   SUP         |   2265           |   5,0000       |   WC čistič SAVO Citron 750ml, ks
+
+2542         |   Pema        |   SUP         |   4148           |   10,0000      |   Gel chlorax REAL 750g, ks
+
+2542         |   Pema        |   SUP         |   4736           |   10,0000      |   WC závěs kostka - Levandule, ks
+
+2542         |   Pema        |   SUP         |   5111           |   2,0000       |   Finish tablety All in 1 48ks, ks
+______________________________
+
+2551         |   Pema        |   SUP         |   0351           |   4,0000       |   Jar 450ml Citron, ks
+
+2551         |   Pema        |   SUP         |   2377           |   2,0000       |   Dekalko na vodní kámen 150g /5sáčků á 30g/, ks
+
+2551         |   Pema        |   SUP         |   2984           |   4,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+2551         |   Pema        |   SUP         |   4148           |   4,0000       |   Gel chlorax REAL 750g, ks
+
+2551         |   Pema        |   SUP         |   5757           |   4,0000       |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+______________________________
+
+2612         |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2612         |   Pema        |   SUP         |   1757           |   20,0000      |   Žiletky ASTRA PLATINIUM, 1bal=5ks, bal
+______________________________
+
+2633         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2633         |   Pema        |   SUP         |   4148           |   3,0000       |   Gel chlorax REAL 750g, ks
+
+2633         |   Pema        |   SUP         |   4809           |   3,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+2633         |   Pema        |   SUP         |   5500           |   10,0000      |   Kartáček na zuby - střední, ks
+______________________________
+
+2636         |   Pema        |   SUP         |   0459           |   10,0000      |   Kartáček na ruce PE - jednostranný, ks
+
+2636         |   Pema        |   SUP         |   1532           |   10,0000      |   Kartáček na ruce s držadlem - Kamil, ks
+
+2636         |   Pema        |   SUP         |   5359           |   48,0000      |   Ručník papírový na roli Harmony 11m 2ks, ks
+
+2636         |   Pema        |   SUP         |   6328           |   5,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+2711         |   Pema        |   SUP         |   0180           |   1,0000       |   Motouz PLP 250g, ks
+
+2711         |   Pema        |   SUP         |   0351           |   3,0000       |   Jar 450ml Citron, ks
+
+2711         |   Pema        |   SUP         |   1054           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+2711         |   Pema        |   SUP         |   1757           |   20,0000      |   Žiletky ASTRA PLATINIUM, 1bal=5ks, bal
+
+2711         |   Pema        |   SUP         |   3621           |   1,0000       |   Univerzal Primona, saponát, 5L, ks
+
+2711         |   Pema        |   SUP         |   5975           |   2,0000       |   GO proti plísni 500ml MR chlorový čistič, ks
+______________________________
+
+2721         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2721         |   Pema        |   SUP         |   1054           |   5,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+2721         |   Pema        |   SUP         |   3621           |   1,0000       |   Univerzal Primona, saponát, 5L, ks
+
+2721         |   Pema        |   SUP         |   5846           |   5,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+______________________________
+
+2731         |   Pema        |   SUP         |   0532           |   1,0000       |   Savo červené original, 1,2l, ks
+
+2731         |   Pema        |   SUP         |   0955           |   1,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2731         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2731         |   Pema        |   SUP         |   4148           |   1,0000       |   Gel chlorax REAL 750g, ks
+
+2731         |   Pema        |   SUP         |   5990           |   5,0000       |   Utěrka UNI Petr - 38x38cm, růžová, ks
+______________________________
+
+2733         |   Pema        |   SUP         |   5895           |   20,0000      |   Párátka oboustranná BAMBUS. 6.5cm (bal.=200ks), bal
+______________________________
+
+2741         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+2741         |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+______________________________
+
+2751         |   Pema        |   SUP         |   4736           |   2,0000       |   WC závěs kostka - Levandule, ks
+
+2751         |   Pema        |   SUP         |   4809           |   2,0000       |   Jar 450ml Teatrea - sensitive, ks
+______________________________
+
+2761         |   Pema        |   SUP         |   0180           |   1,0000       |   Motouz PLP 250g, ks
+
+2761         |   Pema        |   SUP         |   0351           |   5,0000       |   Jar 450ml Citron, ks
+
+2761         |   Pema        |   SUP         |   0607           |   10,0000      |   Utěrka UNI Petr - 38x38cm, modrá, ks
+
+2761         |   Pema        |   SUP         |   1054           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+2761         |   Pema        |   SUP         |   1416           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+2761         |   Pema        |   SUP         |   2173           |   3,0000       |   Krém na ruce Isolda 100ml, šalvěj, antibakteriální, ks
+
+2761         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2761         |   Pema        |   SUP         |   2984           |   5,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+2761         |   Pema        |   SUP         |   4148           |   5,0000       |   Gel chlorax REAL 750g, ks
+
+2761         |   Pema        |   SUP         |   5846           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+______________________________
+
+2781         |   Pema        |   SUP         |   0532           |   2,0000       |   Savo červené original, 1,2l, ks
+
+2781         |   Pema        |   SUP         |   0955           |   4,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+2781         |   Pema        |   SUP         |   1761           |   1,0000       |   Smetáček + lopatka s gumou, ks
+
+2781         |   Pema        |   SUP         |   2265           |   4,0000       |   WC čistič SAVO Citron 750ml, ks
+
+2781         |   Pema        |   SUP         |   5757           |   3,0000       |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+______________________________
+
+2811         |   Pema        |   SUP         |   1356           |   10,0000      |   Šampon ba vlasy Bříza 500ml, ks
+
+2811         |   Pema        |   SUP         |   1419           |   10,0000      |   Šampon na vlasy Kopřiva 500ml, ks
+
+2811         |   Pema        |   SUP         |   2451           |   2,0000       |   Dávkovač mýdla 500ml, bílý, CN, ks
+
+2811         |   Pema        |   SUP         |   4132           |   20,0000      |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+
+2811         |   Pema        |   SUP         |   5359           |   16,0000      |   Ručník papírový na roli Harmony 11m 2ks, ks
+
+2811         |   Pema        |   SUP         |   5657           |   5,0000       |   Tekuté mýdlo 500ml Vione zelené, ks
+
+2811         |   Pema        |   SUP         |   5673           |   5,0000       |   Tekuté mýdlo 500ml Vione růžové, ks
+______________________________
+
+2822         |   Pema        |   SUP         |   0654           |   2,0000       |   Alobal 29cmx10m, ks
+______________________________
+
+2841         |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
+
+2841         |   Pema        |   SUP         |   0532           |   1,0000       |   Savo červené original, 1,2l, ks
+
+2841         |   Pema        |   SUP         |   0832           |   1,0000       |   Koš našlapný + vložka 15L Goliáš mramor.šedá, ks
+
+2841         |   Pema        |   SUP         |   1382           |   1,0000       |   Koš PVC 12l, kulatý - 31x29cm (na papír), ks
+
+2841         |   Pema        |   SUP         |   2451           |   1,0000       |   Dávkovač mýdla 500ml, bílý, CN, ks
+
+2841         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+2841         |   Pema        |   SUP         |   3089           |   1,0000       |   Návlek na obuv jednorázový, bal=100ks, bal
+
+2841         |   Pema        |   SUP         |   5990           |   5,0000       |   Utěrka UNI Petr - 38x38cm, růžová, ks
+______________________________
+
+3112         |   Pema        |   SUP         |   0336           |   3,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+3112         |   Pema        |   SUP         |   0532           |   6,0000       |   Savo červené original, 1,2l, ks
+
+3112         |   Pema        |   SUP         |   1054           |   3,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+3112         |   Pema        |   SUP         |   1356           |   1,0000       |   Šampon ba vlasy Bříza 500ml, ks
+
+3112         |   Pema        |   SUP         |   1419           |   1,0000       |   Šampon na vlasy Kopřiva 500ml, ks
+
+3112         |   Pema        |   SUP         |   2449           |   6,0000       |   Sůl do myčky nádobí Finish 1,5kg, ks
+
+3112         |   Pema        |   SUP         |   2984           |   2,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+3112         |   Pema        |   SUP         |   5111           |   4,0000       |   Finish tablety All in 1 48ks, ks
+
+3112         |   Pema        |   SUP         |   5359           |   80,0000      |   Ručník papírový na roli Harmony 11m 2ks, ks
+
+3112         |   Pema        |   SUP         |   5757           |   1,0000       |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+3112         |   Pema        |   SUP         |   5783           |   4,0000       |   Čistič myčky Milit 250ml, ks
+
+3112         |   Pema        |   SUP         |   5846           |   3,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+______________________________
+
+3214         |   Pema        |   SUP         |   1303           |   3,0000       |   WC souprava bílá (štětka s nádobou), ks
+
+3214         |   Pema        |   SUP         |   3755           |   2,0000       |   Cif na nerez MR, 435 ml, ks
+
+3214         |   Pema        |   SUP         |   5846           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+______________________________
+
+3262         |   Pema        |   SUP         |   5784           |   3,0000       |   Lesk do myčky Milit 1l, ks
+______________________________
+
+3271         |   Pema        |   SUP         |   0180           |   2,0000       |   Motouz PLP 250g, ks
+
+3271         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+3271         |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
+
+3271         |   Pema        |   SUP         |   0880           |   4,0000       |   Larrin čistič na rez a vodní kámen 500ml, ks
+______________________________
+
+3272         |   Pema        |   SUP         |   0351           |   3,0000       |   Jar 450ml Citron, ks
+
+3272         |   Pema        |   SUP         |   0955           |   5,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+3272         |   Pema        |   SUP         |   2173           |   3,0000       |   Krém na ruce Isolda 100ml, šalvěj, antibakteriální, ks
+
+3272         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+3272         |   Pema        |   SUP         |   3089           |   1,0000       |   Návlek na obuv jednorázový, bal=100ks, bal
+
+3272         |   Pema        |   SUP         |   4809           |   2,0000       |   Jar 450ml Teatrea - sensitive, ks
+______________________________
+
+3412         |   Pema        |   SUP         |   0351           |   3,0000       |   Jar 450ml Citron, ks
+
+3412         |   Pema        |   SUP         |   0880           |   3,0000       |   Larrin čistič na rez a vodní kámen 500ml, ks
+
+3412         |   Pema        |   SUP         |   1033           |   2,0000       |   Čistič myčky SOMAT 250 ml, ks
+
+3412         |   Pema        |   SUP         |   1429           |   5,0000       |   Hřeben s rukojetí - plochý, ks
+
+3412         |   Pema        |   SUP         |   2600           |   20,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+3412         |   Pema        |   SUP         |   2877           |   2,0000       |   Univerzal BEL, saponát na podlahy a nádobí, 500ml, ks
+
+3412         |   Pema        |   SUP         |   2984           |   3,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+______________________________
+
+3741         |   Pema        |   SUP         |   2021           |   5,0000       |   Vatové tyčinky 160ks, sáček, ks
+______________________________
+
+3811         |   Pema        |   SUP         |   0180           |   2,0000       |   Motouz PLP 250g, ks
+
+3811         |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+3811         |   Pema        |   SUP         |   0955           |   4,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+3811         |   Pema        |   SUP         |   2021           |   1,0000       |   Vatové tyčinky 160ks, sáček, ks
+______________________________
+
+3832         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+3832         |   Pema        |   SUP         |   0387           |   6,0000       |   Iron 0,5l, ks
+
+3832         |   Pema        |   SUP         |   0532           |   6,0000       |   Savo červené original, 1,2l, ks
+
+3832         |   Pema        |   SUP         |   0880           |   3,0000       |   Larrin čistič na rez a vodní kámen 500ml, ks
+
+3832         |   Pema        |   SUP         |   0955           |   3,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+3832         |   Pema        |   SUP         |   1303           |   1,0000       |   WC souprava bílá (štětka s nádobou), ks
+
+3832         |   Pema        |   SUP         |   1416           |   5,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+3832         |   Pema        |   SUP         |   1464           |   1,0000       |   Přípravek na nádobí Primona 5l, ks
+
+3832         |   Pema        |   SUP         |   1586           |   3,0000       |   Hadr na podlahu bílý Aratex 50x60 cm, ks
+
+3832         |   Pema        |   SUP         |   1743           |   10,0000      |   Smetáček PE, ks
+
+3832         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+3832         |   Pema        |   SUP         |   2613           |   3,0000       |   Krém na ruce Vakavo 100ml s glycerinem, ks
+
+3832         |   Pema        |   SUP         |   2984           |   4,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+3832         |   Pema        |   SUP         |   3621           |   1,0000       |   Univerzal Primona, saponát, 5L, ks
+
+3832         |   Pema        |   SUP         |   4788           |   3,0000       |   WC čistič Primona 750ml, ks
+______________________________
+
+4091         |   Pema        |   SUP         |   6320           |   1,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+
+4091         |   Pema        |   SUP         |   6328           |   1,0000       |   Cleamen 102/202 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+4111         |   Pema        |   SUP         |   0351           |   1,0000       |   Jar 450ml Citron, ks
+______________________________
+
+4211         |   Pema        |   SUP         |   6320           |   1,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+4212         |   Pema        |   SUP         |   4399           |   4,0000       |   Mýdlo tekuté Clear Body Aloe 500ml -  zelené, ks
+
+4212         |   Pema        |   SUP         |   5089           |   3,0000       |   Zásobník na ručníky CN 197 TURNOV - ZZ, ks
+______________________________
+
+4412         |   Pema        |   SUP         |   5673           |   1,0000       |   Tekuté mýdlo 500ml Vione růžové, ks
+______________________________
+
+4812         |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+______________________________
+
+4813         |   Pema        |   SUP         |   0351           |   4,0000       |   Jar 450ml Citron, ks
+
+4813         |   Pema        |   SUP         |   1356           |   4,0000       |   Šampon ba vlasy Bříza 500ml, ks
+
+4813         |   Pema        |   SUP         |   1416           |   4,0000       |   Osvěžovač vzduchu ve spreji 300ml Lemon, ks
+
+4813         |   Pema        |   SUP         |   2365           |   2,0000       |   Mýdlo tekuté Clear Body Oceán 500ml - modré, ks
+
+4813         |   Pema        |   SUP         |   4399           |   2,0000       |   Mýdlo tekuté Clear Body Aloe 500ml -  zelené, ks
+
+4813         |   Pema        |   SUP         |   5783           |   2,0000       |   Čistič myčky Milit 250ml, ks
+
+4813         |   Pema        |   SUP         |   5846           |   4,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+______________________________
+
+6071         |   Pema        |   SUP         |   0607           |   2,0000       |   Utěrka UNI Petr - 38x38cm, modrá, ks
+
+6071         |   Pema        |   SUP         |   2165           |   2,0000       |   SAVO koupelny MR 500ml, ks
+
+6071         |   Pema        |   SUP         |   6320           |   1,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+8211         |   Pema        |   SUP         |   4736           |   6,0000       |   WC závěs kostka - Levandule, ks
+______________________________
+
+8221         |   Pema        |   SUP         |   0351           |   3,0000       |   Jar 450ml Citron, ks
+
+8221         |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
+
+8221         |   Pema        |   SUP         |   1054           |   1,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+8221         |   Pema        |   SUP         |   1054           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+8221         |   Pema        |   SUP         |   2613           |   6,0000       |   Krém na ruce Vakavo 100ml s glycerinem, ks
+
+8221         |   Pema        |   SUP         |   5846           |   3,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+
+8221         |   Pema        |   SUP         |   5846           |   1,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+______________________________
+
+8253         |   Pema        |   SUP         |   1532           |   2,0000       |   Kartáček na ruce s držadlem - Kamil, ks
+
+8253         |   Pema        |   SUP         |   4132           |   4,0000       |   Ubrousky vlhčené Linteo 72ks - dětské, bal
+______________________________
+
+8414         |   Pema        |   SUP         |   0955           |   4,0000       |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+8414         |   Pema        |   SUP         |   1054           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+8414         |   Pema        |   SUP         |   1525           |   4,0000       |   Mřížka do pisoáru - Wave Melon zelená, ks
+
+8414         |   Pema        |   SUP         |   1954           |   5,0000       |   Houbička nádobí s drážkou 10x7cm 10ks, bal
+
+8414         |   Pema        |   SUP         |   2984           |   4,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+8414         |   Pema        |   SUP         |   3089           |   2,0000       |   Návlek na obuv jednorázový, bal=100ks, bal
+
+8414         |   Pema        |   SUP         |   4148           |   4,0000       |   Gel chlorax REAL 750g, ks
+
+8414         |   Pema        |   SUP         |   4809           |   6,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+8414         |   Pema        |   SUP         |   5111           |   2,0000       |   Finish tablety All in 1 48ks, ks
+
+8414         |   Pema        |   SUP         |   5169           |   1,0000       |   Ždímač k uklidovému vozíku, ks
+
+8414         |   Pema        |   SUP         |   5975           |   4,0000       |   GO proti plísni 500ml MR chlorový čistič, ks
+
+8414         |   Pema        |   SUP         |   5990           |   5,0000       |   Utěrka UNI Petr - 38x38cm, růžová, ks
+______________________________
+
+8424         |   Pema        |   SUP         |   0336           |   1,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+8424         |   Pema        |   SUP         |   1954           |   2,0000       |   Houbička nádobí s drážkou 10x7cm 10ks, bal
+
+8424         |   Pema        |   SUP         |   2984           |   5,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+8424         |   Pema        |   SUP         |   4148           |   2,0000       |   Gel chlorax REAL 750g, ks
+
+8424         |   Pema        |   SUP         |   4809           |   2,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+8424         |   Pema        |   SUP         |   5757           |   2,0000       |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+8424         |   Pema        |   SUP         |   5990           |   10,0000      |   Utěrka UNI Petr - 38x38cm, růžová, ks
+______________________________
+
+8424CHI      |   Pema        |   SUP         |   0180           |   16,0000      |   Motouz PLP 250g, ks
+
+8424CHI      |   Pema        |   SUP         |   0880           |   10,0000      |   Larrin čistič na rez a vodní kámen 500ml, ks
+
+8424CHI      |   Pema        |   SUP         |   1054           |   12,0000      |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+8424CHI      |   Pema        |   SUP         |   1303           |   30,0000      |   WC souprava bílá (štětka s nádobou), ks
+
+8424CHI      |   Pema        |   SUP         |   1525           |   30,0000      |   Mřížka do pisoáru - Wave Melon zelená, ks
+
+8424CHI      |   Pema        |   SUP         |   1761           |   5,0000       |   Smetáček + lopatka s gumou, ks
+
+8424CHI      |   Pema        |   SUP         |   2265           |   2,0000       |   WC čistič SAVO Citron 750ml, ks
+
+8424CHI      |   Pema        |   SUP         |   4148           |   12,0000      |   Gel chlorax REAL 750g, ks
+
+8424CHI      |   Pema        |   SUP         |   5111           |   10,0000      |   Finish tablety All in 1 48ks, ks
+
+8424CHI      |   Pema        |   SUP         |   5169           |   2,0000       |   Ždímač k uklidovému vozíku, ks
+
+8424CHI      |   Pema        |   SUP         |   5757           |   18,0000      |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+8424CHI      |   Pema        |   SUP         |   5975           |   24,0000      |   GO proti plísni 500ml MR chlorový čistič, ks
+______________________________
+
+8424LDN      |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+8424LDN      |   Pema        |   SUP         |   0387           |   6,0000       |   Iron 0,5l, ks
+
+8424LDN      |   Pema        |   SUP         |   0552           |   2,0000       |   Krém na ruce Indulona modrá100ml, ks
+
+8424LDN      |   Pema        |   SUP         |   0955           |   15,0000      |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+8424LDN      |   Pema        |   SUP         |   1054           |   10,0000      |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+8424LDN      |   Pema        |   SUP         |   1303           |   5,0000       |   WC souprava bílá (štětka s nádobou), ks
+
+8424LDN      |   Pema        |   SUP         |   1954           |   8,0000       |   Houbička nádobí s drážkou 10x7cm 10ks, bal
+
+8424LDN      |   Pema        |   SUP         |   2265           |   5,0000       |   WC čistič SAVO Citron 750ml, ks
+
+8424LDN      |   Pema        |   SUP         |   2365           |   17,0000      |   Mýdlo tekuté Clear Body Oceán 500ml - modré, ks
+
+8424LDN      |   Pema        |   SUP         |   2449           |   2,0000       |   Sůl do myčky nádobí Finish 1,5kg, ks
+
+8424LDN      |   Pema        |   SUP         |   2984           |   7,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+8424LDN      |   Pema        |   SUP         |   3621           |   2,0000       |   Univerzal Primona, saponát, 5L, ks
+
+8424LDN      |   Pema        |   SUP         |   4148           |   19,0000      |   Gel chlorax REAL 750g, ks
+
+8424LDN      |   Pema        |   SUP         |   4651           |   4,0000       |   Leštěnka Přípravek proti prachu Real 300ml, bal
+
+8424LDN      |   Pema        |   SUP         |   4809           |   20,0000      |   Jar 450ml Teatrea - sensitive, ks
+
+8424LDN      |   Pema        |   SUP         |   5111           |   4,0000       |   Finish tablety All in 1 48ks, ks
+
+8424LDN      |   Pema        |   SUP         |   5757           |   14,0000      |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+8424LDN      |   Pema        |   SUP         |   5784           |   2,0000       |   Lesk do myčky Milit 1l, ks
+
+8424LDN      |   Pema        |   SUP         |   5975           |   8,0000       |   GO proti plísni 500ml MR chlorový čistič, ks
+
+8424LDN      |   Pema        |   SUP         |   5990           |   10,0000      |   Utěrka UNI Petr - 38x38cm, růžová, ks
+
+8424LDN      |   Pema        |   SUP         |   6320           |   3,0000       |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+______________________________
+
+8424PIB      |   Pema        |   SUP         |   0180           |   1,0000       |   Motouz PLP 250g, ks
+
+8424PIB      |   Pema        |   SUP         |   0336           |   2,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+8424PIB      |   Pema        |   SUP         |   0532           |   2,0000       |   Savo červené original, 1,2l, ks
+
+8424PIB      |   Pema        |   SUP         |   0552           |   2,0000       |   Krém na ruce Indulona modrá100ml, ks
+
+8424PIB      |   Pema        |   SUP         |   1054           |   4,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+8424PIB      |   Pema        |   SUP         |   1954           |   2,0000       |   Houbička nádobí s drážkou 10x7cm 10ks, bal
+
+8424PIB      |   Pema        |   SUP         |   2265           |   4,0000       |   WC čistič SAVO Citron 750ml, ks
+
+8424PIB      |   Pema        |   SUP         |   2984           |   4,0000       |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+8424PIB      |   Pema        |   SUP         |   4148           |   2,0000       |   Gel chlorax REAL 750g, ks
+
+8424PIB      |   Pema        |   SUP         |   4809           |   4,0000       |   Jar 450ml Teatrea - sensitive, ks
+
+8424PIB      |   Pema        |   SUP         |   5975           |   2,0000       |   GO proti plísni 500ml MR chlorový čistič, ks
+______________________________
+
+8424PIO      |   Pema        |   SUP         |   0180           |   10,0000      |   Motouz PLP 250g, ks
+
+8424PIO      |   Pema        |   SUP         |   0336           |   9,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+8424PIO      |   Pema        |   SUP         |   0351           |   55,0000      |   Jar 450ml Citron, ks
+
+8424PIO      |   Pema        |   SUP         |   0351           |   2,0000       |   Jar 450ml Citron, ks
+
+8424PIO      |   Pema        |   SUP         |   0387           |   2,0000       |   Iron 0,5l, ks
+
+8424PIO      |   Pema        |   SUP         |   0387           |   4,0000       |   Iron 0,5l, ks
+
+8424PIO      |   Pema        |   SUP         |   0532           |   12,0000      |   Savo červené original, 1,2l, ks
+
+8424PIO      |   Pema        |   SUP         |   0607           |   4,0000       |   Utěrka UNI Petr - 38x38cm, modrá, ks
+
+8424PIO      |   Pema        |   SUP         |   0943           |   1,0000       |   Univerzal Krystal, saponát, modrý, 5l, ks
+
+8424PIO      |   Pema        |   SUP         |   0955           |   21,0000      |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+8424PIO      |   Pema        |   SUP         |   1054           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Japonská zahrada, ks
+
+8424PIO      |   Pema        |   SUP         |   1177           |   5,0000       |   Kartáč na radiátor, ks
+
+8424PIO      |   Pema        |   SUP         |   1303           |   12,0000      |   WC souprava bílá (štětka s nádobou), ks
+
+8424PIO      |   Pema        |   SUP         |   1525           |   10,0000      |   Mřížka do pisoáru - Wave Melon zelená, ks
+
+8424PIO      |   Pema        |   SUP         |   1761           |   5,0000       |   Smetáček + lopatka s gumou, ks
+
+8424PIO      |   Pema        |   SUP         |   1954           |   1,0000       |   Houbička nádobí s drážkou 10x7cm 10ks, bal
+
+8424PIO      |   Pema        |   SUP         |   2265           |   13,0000      |   WC čistič SAVO Citron 750ml, ks
+
+8424PIO      |   Pema        |   SUP         |   2365           |   36,0000      |   Mýdlo tekuté Clear Body Oceán 500ml - modré, ks
+
+8424PIO      |   Pema        |   SUP         |   2377           |   3,0000       |   Dekalko na vodní kámen 150g /5sáčků á 30g/, ks
+
+8424PIO      |   Pema        |   SUP         |   2449           |   6,0000       |   Sůl do myčky nádobí Finish 1,5kg, ks
+
+8424PIO      |   Pema        |   SUP         |   2600           |   10,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+8424PIO      |   Pema        |   SUP         |   2632           |   5,0000       |   Rýžák na holi 130cm, ks
+
+8424PIO      |   Pema        |   SUP         |   2984           |   30,0000      |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+8424PIO      |   Pema        |   SUP         |   3755           |   2,0000       |   Cif na nerez MR, 435 ml, ks
+
+8424PIO      |   Pema        |   SUP         |   3953           |   1,0000       |   Cleamen 101/201 osvěžovač neutralizát 5L, ks
+
+8424PIO      |   Pema        |   SUP         |   4148           |   50,0000      |   Gel chlorax REAL 750g, ks
+
+8424PIO      |   Pema        |   SUP         |   5111           |   15,0000      |   Finish tablety All in 1 48ks, ks
+
+8424PIO      |   Pema        |   SUP         |   5169           |   2,0000       |   Ždímač k uklidovému vozíku, ks
+
+8424PIO      |   Pema        |   SUP         |   5351           |   6,0000       |   Pěnové mýdlo TORK, 1 l, jemné S4 (karton = 6 l), ks
+
+8424PIO      |   Pema        |   SUP         |   5757           |   26,0000      |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+8424PIO      |   Pema        |   SUP         |   5783           |   5,0000       |   Čistič myčky Milit 250ml, ks
+
+8424PIO      |   Pema        |   SUP         |   5784           |   8,0000       |   Lesk do myčky Milit 1l, ks
+
+8424PIO      |   Pema        |   SUP         |   5846           |   24,0000      |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
+
+8424PIO      |   Pema        |   SUP         |   5860           |   6,0000       |   Krém na ruce MARYNA 75ml, ks
+
+8424PIO      |   Pema        |   SUP         |   5975           |   2,0000       |   GO proti plísni 500ml MR chlorový čistič, ks
+
+8424PIO      |   Pema        |   SUP         |   6320           |   22,0000      |   Cleamen 302/402 osvěžovač-neutralizát 550ml, ks
+
+8424PIO      |   Pema        |   SUP         |   6549           |   5,0000       |   PU čistič 10l Dr. Schutz, ks
+______________________________
+
+8424PMD      |   Pema        |   SUP         |   0336           |   3,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+8424PMD      |   Pema        |   SUP         |   2600           |   20,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+8424PMD      |   Pema        |   SUP         |   4148           |   24,0000      |   Gel chlorax REAL 750g, ks
+
+8424PMD      |   Pema        |   SUP         |   5111           |   10,0000      |   Finish tablety All in 1 48ks, ks
+______________________________
+
+8476         |   Pema        |   SUP         |   0999           |   100,0000     |   Utěrka UNI Petr - 38x38cm, zelená, ks
+
+8476         |   Pema        |   SUP         |   1359           |   6,0000       |   Drátěnka nerez 15g (3ks), ks
+
+8476         |   Pema        |   SUP         |   1727           |   120,0000     |   Rukavice textilní bavlna vel.10 - stravovací, pár
+
+8476         |   Pema        |   SUP         |   2136           |   2,0000       |   Stěrka na podlahy, plast, 45cm s holí, ks
+______________________________
+
+8492         |   Pema        |   SUP         |   0351           |   4,0000       |   Jar 450ml Citron, ks
+
+8492         |   Pema        |   SUP         |   0635           |   2,0000       |   Olej Konkor - silikonový  300ml, ks
+
+8492         |   Pema        |   SUP         |   1761           |   1,0000       |   Smetáček + lopatka s gumou, ks
+
+8492         |   Pema        |   SUP         |   2600           |   20,0000      |   Houbička nádobí s drážkou 10x7cm, ks
+
+8492         |   Pema        |   SUP         |   4809           |   4,0000       |   Jar 450ml Teatrea - sensitive, ks
+______________________________
+
+8611         |   Pema        |   SUP         |   0180           |   20,0000      |   Motouz PLP 250g, ks
+______________________________
+
+8712         |   Pema        |   SUP         |   0336           |   4,0000       |   Mýdlo tekuté Riva Soft 5l - krémové bílé, ks
+
+8712         |   Pema        |   SUP         |   0607           |   15,0000      |   Utěrka UNI Petr - 38x38cm, modrá, ks
+
+8712         |   Pema        |   SUP         |   0880           |   20,0000      |   Larrin čistič na rez a vodní kámen 500ml, ks
+
+8712         |   Pema        |   SUP         |   0955           |   20,0000      |   Písek tekutý, jemný REAL 600g bílý/fialový, ks
+
+8712         |   Pema        |   SUP         |   0999           |   20,0000      |   Utěrka UNI Petr - 38x38cm, zelená, ks
+
+8712         |   Pema        |   SUP         |   1141           |   6,0000       |   Kartáč na prádlo silonový 16x5x4 cm, ks
+
+8712         |   Pema        |   SUP         |   2877           |   10,0000      |   Univerzal BEL, saponát na podlahy a nádobí, 500ml, ks
+
+8712         |   Pema        |   SUP         |   2984           |   20,0000      |   Fixinela - na rez a vodní kámen, 500ml, ks
+
+8712         |   Pema        |   SUP         |   3621           |   4,0000       |   Univerzal Primona, saponát, 5L, ks
+
+8712         |   Pema        |   SUP         |   4148           |   20,0000      |   Gel chlorax REAL 750g, ks
+
+8712         |   Pema        |   SUP         |   5757           |   15,0000      |   Krystal čistič koupelny na rez a kámen s MR 750ml, ks
+
+8712         |   Pema        |   SUP         |   5846           |   2,0000       |   Osvěžovač vzduchu ve spreji 300ml Ocean, ks
 ===================================================================================================

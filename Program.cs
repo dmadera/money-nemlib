@@ -6,29 +6,36 @@ namespace money_nemlib
 {
     class Program
     {
-        public static IServiceProvider ServiceProvider { get; private set; }
+        public static IServiceProvider ServiceProvider
+        {
+            get; private set;
+        }
 
         static int Main(string[] args)
         {
-            ServiceProvider = Services.Startup.BuildServiceProvider();
-
-            Console.WriteLine("{0:yyyy-MM-dd HH:mm:ss} Converze nemlib txt objednávky do XML.", DateTime.Now);
             try
             {
-                if (args.Length != 2 && args.Length != 1) throw new ArgumentException("Chyba vstupních argumentů. Povolený počet: 1 nebo 2.");
+                if (args.Length == 2 && args[0] == "encrypt")
+                {
+                    Console.WriteLine(Services.AesOperation.EncryptString(Services.Secret.GetAesKey(), args[1]));
+                    return 0;
+                }
+
+                if (args.Length != 2 && args.Length != 1)
+                    throw new ArgumentException("Chyba vstupních argumentů. Povolený počet: 1 nebo 2.");
+
+                ServiceProvider = Services.Startup.BuildServiceProvider();
+                Console.WriteLine("{0:yyyy-MM-dd HH:mm:ss} Converze nemlib txt objednávky do XML.", DateTime.Now);
 
                 string inputTxtFile = args[0];
                 string outputTxtFile = inputTxtFile;
                 if (args.Length == 2)
-                {
                     outputTxtFile = args[1];
-                }
                 else
-                {
                     MakeCopy(inputTxtFile);
-                }
 
-                if (!File.Exists(inputTxtFile)) throw new ArgumentException($"Nepodařilo se načíst vstupní XML soubor: {inputTxtFile}.");
+                if (!File.Exists(inputTxtFile))
+                    throw new ArgumentException($"Nepodařilo se načíst vstupní XML soubor: {inputTxtFile}.");
 
                 var conv = new NemlibToXml(inputTxtFile, System.Text.Encoding.UTF8);
                 conv.Serialize(outputTxtFile);
@@ -38,8 +45,11 @@ namespace money_nemlib
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
-                Console.WriteLine(e.StackTrace);
-                Console.ReadKey();
+                if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "dev")
+                {
+                    Console.WriteLine(e.StackTrace);
+                }
+                Console.Read();
                 return 1;
             }
         }

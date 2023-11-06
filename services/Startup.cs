@@ -18,21 +18,19 @@ namespace Services
                 .AddEnvironmentVariables()
                 .Build();
 
+
             foreach (var (key, value) in config.AsEnumerable())
             {
                 try
                 {
-                    var postfix = "FilePath*";
-                    if (key.EndsWith(postfix))
+                    if (key.StartsWith("DatabaseConfig:") && AesOperation.IsBase64String(value))
                     {
-                        var newKey = key.Remove(key.Length - postfix.Length);
-                        var filePath = Path.GetFullPath(value);
-                        config[newKey] = File.ReadAllText(filePath);
+                        config[key] = AesOperation.DecryptString(Secret.GetAesKey(), value);
                     }
                 }
-                catch (IOException error)
+                catch (Exception error)
                 {
-                    throw new IOException($"File not found. Configuration: {config}, Key: {key}, FilePath: {value}", error);
+                    throw new InvalidDataException($"Unable to decrypt {key} from app config.", error);
                 }
             }
 
@@ -46,6 +44,8 @@ namespace Services
             return new ServiceCollection()
                 .AddOptions()
                 .Configure<DatabaseConfig>(config.GetSection("DatabaseConfig"))
+                .Configure<money_nemlib.ParserConfig>(config.GetSection("ParserConfig"))
+                // Add more configuration
                 .BuildServiceProvider();
         }
     }
